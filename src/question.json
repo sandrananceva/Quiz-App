@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "question": "Hyper Text Markup Language Stand For?",
+        "opt1": "JavaScrip",
+        "opt2": "HTML",
+        "opt3": "CSS",
+        "opt4": "XHTML",
+        "answer": "HTML"
+    },
+    {
+        "id": 2,
+        "question": "DOM Stand For?",
+        "opt1": "Document Object Model",
+        "opt2": "Document Object Method",
+        "opt3": "Domain Open Model",
+        "opt4": "Direct Object Model",
+        "answer": "Document Object Model"
+    },
+    {
+        "id": 3,
+        "question": "What are the two methods of forms transfer? ",
+        "opt1": "Get and Receive",
+        "opt2": "Get and Post",
+        "opt3": "Post and Receive",
+        "opt4": "Post and Take",
+        "answer": "Get and Post"
+    },
+    {
+        "id": 4,
+        "question": "A collection of data containing both properties and methods is called... ",
+        "opt1": "Tag",
+        "opt2": "Selector",
+        "opt3": "Object",
+        "opt4": "Class",
+        "answer": "Object"
+    },
+    {
+        "id": 5,
+        "question": "In JavaScript, 'this' refers to the object that ____ the object. ",
+        "opt1": "Receives",
+        "opt2": "Depends",
+        "opt3": "Owns",
+        "opt4": "Direct",
+        "answer": "Owns"
+    }
+]
